@@ -10,7 +10,13 @@
 ,"lines": {}
 ,"layerprio": 0}
 ,"worldguard.markerset": {"hide": true,"circles": {}
-,"areas": {}
+,"areas": {"world_of_nether_centre": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-342.00,-342.00,-140.00,-140.00]
+,"weight": 2,"z": [82.00,283.00,283.00,82.00]
+,"ybottom": 64.00,"label": "Centre","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Centre<\/div><\/div>"}
+,"world_of_nether_centre_antispawn": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-262.00,-262.00,-221.00,-221.00]
+,"weight": 2,"z": [162.00,203.00,203.00,162.00]
+,"ybottom": 64.00,"label": "Centre_antispawn","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Centre_antispawn<\/div><\/div>"}
+}
 ,"label": "R\u00E9gions","markers": {}
 ,"lines": {}
 ,"layerprio": 0}
@@ -39,4 +45,4 @@
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1663239625752}
+,"timestamp": 1671368289380}

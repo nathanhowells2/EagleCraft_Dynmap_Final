@@ -9,7 +9,10 @@
 ,"lines": {}
 ,"layerprio": 0}
 ,"worldguard.markerset": {"hide": true,"circles": {}
-,"areas": {}
+,"areas": {"versailles_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-10000.00,-10000.00,10001.00,10001.00]
+,"weight": 2,"z": [-10000.00,10001.00,10001.00,-10000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+}
 ,"label": "R\u00E9gions","markers": {}
 ,"lines": {}
 ,"layerprio": 0}
@@ -38,4 +41,4 @@
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1663239625751}
+,"timestamp": 1671368289378}

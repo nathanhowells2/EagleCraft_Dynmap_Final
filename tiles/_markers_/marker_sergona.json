@@ -9,7 +9,13 @@
 ,"lines": {}
 ,"layerprio": 0}
 ,"worldguard.markerset": {"hide": true,"circles": {}
-,"areas": {}
+,"areas": {"sergona_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-20000.00,-20000.00,20001.00,20001.00]
+,"weight": 2,"z": [-20000.00,20001.00,20001.00,-20000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+,"sergona_bienvenue": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [338.00,338.00,339.00,339.00]
+,"weight": 2,"z": [212.00,213.00,213.00,212.00]
+,"ybottom": 64.00,"label": "Bienvenue","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Bienvenue<\/div><\/div>"}
+}
 ,"label": "R\u00E9gions","markers": {}
 ,"lines": {}
 ,"layerprio": 0}
@@ -38,4 +44,4 @@
 ,"lines": {}
 ,"layerprio": 0}
 }
-,"timestamp": 1663239625750}
+,"timestamp": 1671368289374}
